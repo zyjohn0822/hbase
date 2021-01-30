@@ -1,0 +1,6 @@
+Person.class
+com/hisense/hiatmp/hbase/api/internal/Person.class
+com/hisense/hiatmp/hbase/api/internal/SaltMD5IDStrategyTest.class
+HBaseTest.class
+com/hisense/hiatmp/hbase/basic/HBaseTest.class
+com/hisense/hiatmp/hbase/api/internal/HBaseProcessTest.class

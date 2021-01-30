@@ -1,0 +1,10 @@
+/Users/zy_john/Documents/hisense-project/hbase/src/main/java/com/hisense/hiatmp/hbase/api/RowKeyStrategy.java
+/Users/zy_john/Documents/hisense-project/hbase/src/main/java/com/hisense/hiatmp/hbase/annotation/ColumnFamily.java
+/Users/zy_john/Documents/hisense-project/hbase/src/main/java/com/hisense/hiatmp/hbase/annotation/RowKey.java
+/Users/zy_john/Documents/hisense-project/hbase/src/main/java/com/hisense/hiatmp/hbase/basic/HBase.java
+/Users/zy_john/Documents/hisense-project/hbase/src/main/java/com/hisense/hiatmp/hbase/api/internal/SaltMD5IDStrategy.java
+/Users/zy_john/Documents/hisense-project/hbase/src/main/java/com/hisense/hiatmp/hbase/api/internal/HBaseProcess.java
+/Users/zy_john/Documents/hisense-project/hbase/src/main/java/com/hisense/hiatmp/hbase/annotation/Table.java
+/Users/zy_john/Documents/hisense-project/hbase/src/main/java/com/hisense/hiatmp/hbase/annotation/Column.java
+/Users/zy_john/Documents/hisense-project/hbase/src/main/java/com/hisense/hiatmp/hbase/basic/Tuple2.java
+/Users/zy_john/Documents/hisense-project/hbase/src/main/java/com/hisense/hiatmp/hbase/api/IHBaseProcess.java
