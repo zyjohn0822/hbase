@@ -43,7 +43,7 @@ public class SaltMD5IDStrategy implements RowKeyStrategy {
         }
         try {
             temp = Bytes.add(MD5Hash.getMD5AsHex(id.getBytes()).substring(0, 4).getBytes(),
-                    Bytes.toBytes(System.currentTimeMillis()));
+                    Bytes.toBytes(max - System.currentTimeMillis()));
             result = Bytes.add(temp, Bytes.toBytes(count.get()));
         } finally {
             count.incrementAndGet();
